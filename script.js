@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const btnStep2 = document.getElementById('btn-step-2');
         btnStep2.style.display = 'inline-block';
 
-        const startDate = new Date('2025-09-16T00:00:00');
+        const startDate = new Date('2023-06-05T00:00:00');
 
         function updateCounter() {
             const now = new Date();
